@@ -1,0 +1,61 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+h2{
+    color: rgb(158, 59, 59);
+    letter-spacing: 1px;
+    text-align: center;
+}
+input{
+    border-radius: 5px;
+    border: 2px solid black;
+    margin-top: 30px;
+    height: 2em;
+    width: 250px;
+    padding-left: 10px;
+    margin-left: 60px;
+    
+}
+#wrapper{
+    height: 500px;
+    width: 400px;
+    margin: 200px auto;
+    background-color: rgba(0, 0, 0, 0.317);
+    padding: 30px;
+    border-radius: 10px;
+}
+button{
+    margin-top: 20px;
+    background-color: blanchedalmond;
+    border-radius: 6px;
+    height: 44px;
+    font-weight: 600;
+    padding: 0 30px;
+    letter-spacing: 1px;
+    border: none;
+    color: coral;
+    margin-left: 100px ;
+}result{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
